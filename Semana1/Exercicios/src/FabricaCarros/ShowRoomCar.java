@@ -4,19 +4,19 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Scanner;
 
-public class ShowRoomCAr {
+public class ShowRoomCar {
     public static void main(String[] args){
         Scanner scanner = new Scanner(System.in);
         int control =1;
-        Carro carro = new Carro();
+        //Carro carro = new Carro();
 
         List<Carro> zeroKm = new ArrayList<>();
 
         for (int i=0; i<control; i++){
-            System.out.println("Informe o fabricante do carro1:  ");
+            System.out.println("🚗 Informe o fabricante do carro1:  ");
             Carro carro1 = new Carro(scanner.next());
 
-            System.out.println("Informe a cor do carro1:  ");
+            System.out.println("🚗 Informe a cor do carro1:  ");
             carro1.setCor(scanner.next());
 
             System.out.println("🚗 Informe o modelo do carro1:  ");
