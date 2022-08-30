@@ -14,7 +14,6 @@ package Carros;
 
 public class Carro {
 
-   double speed;
 
     public Carro(int id, String modelo, String cor, double preco, double velocidade) {
         this.id = id;
@@ -56,22 +55,16 @@ public class Carro {
         this.velocidade = velocidade;
     }
 
-    @Override
-    public String toString() {
-        return "Carro{" +
-                "id=" + id +
-                ", modelo='" + modelo + '\'' +
-                ", cor='" + cor + '\'' +
-                ", preco=" + preco +
-                ", velocidade=" + velocidade +
-                '}';
-    }
-
 
     private int id;
     private String modelo;
     private String cor;
     private double preco;
+
+    public void setVelocidade(double velocidade) {
+        this.velocidade = velocidade;
+    }
+
     private double velocidade;
 
 
@@ -84,8 +77,44 @@ public class Carro {
     // Através do método main da classe Main crie a instância dos objetos com as mesmas características do exercício
     // anterior e realize uma sequência de aceleração e frenagem com cada um dos objetos:
     
+    private double velocidadeMaxima;
+
+    @Override
+    public String toString() {
+        return "Carro{" +
+                "id=" + id +
+                ", modelo='" + modelo + '\'' +
+                ", cor='" + cor + '\'' +
+                ", preco=" + preco +
+                ", velocidade=" + velocidade +
+                ", velocidadeMaxima=" + velocidadeMaxima +
+                '}';
+    }
+
+    public Carro(double velocidadeMaxima) {
+        this.velocidadeMaxima = velocidadeMaxima;
+    }
+
+    public double getVelocidadeMaxima() {
+        return velocidadeMaxima;
+    }
+
+    public void setVelocidadeMaxima(double velocidadeMaxima) {
+
+        this.velocidadeMaxima = velocidadeMaxima;
 
 
+    }
+
+
+    public double acelerar(double speed){
+        return velocidade +=speed;
+    }
+
+    public double freiar(double freio){
+        return velocidade=freio;
+
+    }
 
 
 }

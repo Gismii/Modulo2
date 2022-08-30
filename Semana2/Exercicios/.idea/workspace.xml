@@ -2,10 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1cdae5a2-83c7-4bd3-ab74-c905afd01189" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../Semana1/Exercicios/out/production/Exercicios/ListaDePessoa/Pessoas.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Semana1/Exercicios/out/production/Exercicios/ListaDePessoa/Pessoas.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Semana1/Exercicios/out/production/Exercicios/MusicCollection/PlayMusic.class" beforeDir="false" afterPath="$PROJECT_DIR$/../../Semana1/Exercicios/out/production/Exercicios/MusicCollection/PlayMusic.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Semana1/Exercicios/src/ListaDePessoa/Pessoas.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Semana1/Exercicios/src/ListaDePessoa/Pessoas.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../Semana1/Exercicios/src/MusicCollection/PlayMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/../../Semana1/Exercicios/src/MusicCollection/PlayMusic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carros/Carro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Carros/Carro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carros/CarroMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Carros/CarroMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
