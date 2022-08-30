@@ -44,7 +44,7 @@ public class PlayMusic {
 
                     }
                 case 2:
-                    System.out.println("informe a musica que deseja ouvir: " + musicas.toString() + " ou Pressione p para encerrar a musica em execução: ");
+                    System.out.println("informe a musica que deseja ouvir: " + musicas.toString() + " ou Pressione [P] para encerrar a musica em execução: ");
                     String nome=scanner.next();
                     if (nome.equals(musicas)==gerenciadorMusica.emExecucao){
 
