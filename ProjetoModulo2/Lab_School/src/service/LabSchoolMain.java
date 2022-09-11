@@ -88,7 +88,8 @@ public class LabSchoolMain {
                     aluno.setTelefone(entrada.next());
                     System.out.println("ESTADO MATRICULA: ");
                     condition = (entrada.next());
-                    if (condition == "Ativo" || condition == "Inativo" || condition == "Irregular" || condition == "Atendimento pedagógico") {
+                    if (condition == "Ativo" || condition == "Inativo" || condition == "Irregular"
+                            || condition == "Atendimento pedagógico") {
                         aluno.setCondicaoUM(condition);
                     }
 
