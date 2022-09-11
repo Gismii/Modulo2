@@ -55,10 +55,23 @@ public class Carro {
         this.velocidade = velocidade;
     }
 
+    public void setModelo(String modelo) {
+        this.modelo = modelo;
+    }
 
     private int id;
+
+    public void setId(int id) {
+        this.id = id;
+    }
+
     private String modelo;
     private String cor;
+
+    public void setCor(String cor) {
+        this.cor = cor;
+    }
+
     private double preco;
 
     public void setVelocidade(double velocidade) {
@@ -117,4 +130,7 @@ public class Carro {
     }
 
 
-}
+   }
+
+
+
