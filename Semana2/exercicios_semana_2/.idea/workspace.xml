@@ -1,0 +1,124 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1cdae5a2-83c7-4bd3-ab74-c905afd01189" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carros/CarroMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/Carros/CarroMain.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Carros/EstoqueLojaCarro.java" beforeDir="false" afterPath="$PROJECT_DIR$/Carros/EstoqueLojaCarro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Exercicios/Carros/EstoqueLojaCarro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Exercicios/Carros/EstoqueLojaCarro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/FiguraGeometrica/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/FiguraGeometrica/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/FiguraGeometrica/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/FiguraGeometrica/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/FiguraGeometrica/FiguraGeometrica.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/FiguraGeometrica/src/FigurasGeometricas.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/FiguraGeometrica/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/Lab_School/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/Lab_School/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/Lab_School/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/Lab_School/.idea/uiDesigner.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/Lab_School/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/Lab_School/Lab_School.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/Lab_School/out/production/Lab_School/dominio/Aluno.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/Lab_School/out/production/Lab_School/dominio/Main.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/Lab_School/out/production/Lab_School/dominio/Pedagogo.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/Lab_School/out/production/Lab_School/dominio/Pessoa.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/Lab_School/out/production/Lab_School/dominio/Professor.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/Lab_School/out/production/Lab_School/service/LabSchoolMain.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/Lab_School/src/dominio/Aluno.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/Lab_School/src/dominio/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/Lab_School/src/dominio/Pedagogo.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/Lab_School/src/dominio/Pessoa.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/Lab_School/src/dominio/Professor.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../Semana3/Exercicios/Lab_School/src/service/LabSchoolMain.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2E0cltI9a83ZVf7fR3BH5UC7jP7" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="autoscrollFromSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/gisme/OneDrive/Área de Trabalho/Senai/Modulo2/Semana2/Exercicios&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Application.PlayLista">
+    <configuration name="CarroMain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Carros.CarroMain" />
+      <module name="Exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Carros.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PlayLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="TimeFutebol.PlayLista" />
+      <module name="Exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="TimeFutebol.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Teste" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="GerandoFatura.Teste" />
+      <module name="Exercicios" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="GerandoFatura.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PlayLista" />
+        <item itemvalue="Application.Teste" />
+        <item itemvalue="Application.CarroMain" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1cdae5a2-83c7-4bd3-ab74-c905afd01189" name="Changes" comment="" />
+      <created>1661736099325</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661736099325</updated>
+    </task>
+    <servers />
+  </component>
+</project>
